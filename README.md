@@ -18,4 +18,5 @@
 |3|2026-04-08|[Google DeepMind: 02 Represent Your Language Data](https://www.skills.google/course_templates/1452)|Course|✅||
 |4|2026-04-09|[Google DeepMind: 03 Design And Train Neural Networks](https://www.skills.google/course_templates/1450)|Course|✅||
 |5|2026-04-10|[Google DeepMind: 04 Discover The Transformer Architecture](https://www.skills.google/course_templates/1451)|Course|✅||
-|6||[Google DeepMind: 05 Fine-Tune Your Model](https://www.skills.google/course_templates/1556)|Course|||
+|6|2026-04-11|[Google DeepMind: 05 Fine-Tune Your Model](https://www.skills.google/course_templates/1556)|Course|✅||
+|7||[Google DeepMind: 07 Accelerate Your Model](https://www.skills.google/course_templates/1555)|Course|||
