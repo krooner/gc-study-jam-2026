@@ -13,11 +13,11 @@
 
 |Index|일정|강의|Course/Skill|완료 여부|비고|
 |---|---|---|---|---|---|
-|1|2026-04-04|[Encoder-Decoder Architecture](https://www.skills.google/course_templates/543)|Course|✅|시작 시점이 4/1 이전이라 애매르송|
-|2|2026-04-06|[Google DeepMind: 01 Build Your Own Small Language Model](https://www.skills.google/course_templates/1341)|Course|✅||
-|3|2026-04-08|[Google DeepMind: 02 Represent Your Language Data](https://www.skills.google/course_templates/1452)|Course|✅||
-|4|2026-04-09|[Google DeepMind: 03 Design And Train Neural Networks](https://www.skills.google/course_templates/1450)|Course|✅||
-|5|2026-04-10|[Google DeepMind: 04 Discover The Transformer Architecture](https://www.skills.google/course_templates/1451)|Course|✅||
-|6|2026-04-11|[Google DeepMind: 05 Fine-Tune Your Model](https://www.skills.google/course_templates/1556)|Course|✅||
-|7|2026-04-12|[Google DeepMind: Train A Small Language Model](https://www.skills.google/course_templates/1453)|Skill|👍||
-|8||[Google DeepMind: 07 Accelerate Your Model](https://www.skills.google/course_templates/1555)|Course|||
+|1|2026-04-04|[Encoder-Decoder Architecture](https://www.skills.google/course_templates/543)|Course|✅|시작 시점이 4/1 이전이라 애매르송; 1/0|
+|2|2026-04-06|[Google DeepMind: 01 Build Your Own Small Language Model](https://www.skills.google/course_templates/1341)|Course|✅|2/0|
+|3|2026-04-08|[Google DeepMind: 02 Represent Your Language Data](https://www.skills.google/course_templates/1452)|Course|✅|3/0|
+|4|2026-04-09|[Google DeepMind: 03 Design And Train Neural Networks](https://www.skills.google/course_templates/1450)|Course|✅|4/0|
+|5|2026-04-10|[Google DeepMind: 04 Discover The Transformer Architecture](https://www.skills.google/course_templates/1451)|Course|✅|5/0|
+|6|2026-04-11|[Google DeepMind: 05 Fine-Tune Your Model](https://www.skills.google/course_templates/1556)|Course|✅|6/0|
+|7|2026-04-12|[Google DeepMind: Train A Small Language Model](https://www.skills.google/course_templates/1453)|Skill|👍|6/1|
+|8|2026-04-12|[Google DeepMind: 07 Accelerate Your Model](https://www.skills.google/course_templates/1555)|Course|✅|7/1|
