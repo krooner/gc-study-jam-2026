@@ -21,3 +21,15 @@
 |6|2026-04-11|[Google DeepMind: 05 Fine-Tune Your Model](https://www.skills.google/course_templates/1556)|Course|✅|6/0|
 |7|2026-04-12|[Google DeepMind: Train A Small Language Model](https://www.skills.google/course_templates/1453)|Skill|👍|6/1|
 |8|2026-04-12|[Google DeepMind: 07 Accelerate Your Model](https://www.skills.google/course_templates/1555)|Course|✅|7/1|
+|9|2026-04-12|[AI Boost Bites: Your Personal Feedback Agent](https://www.skills.google/course_templates/1449)|Course|✅|8/1|
+|10|2026-04-12|[AI Boost Bites: Presentation Scripts with Gemini](https://www.skills.google/course_templates/1433)|Course|✅|9/1|
+|11|2026-04-12|[AI Boost Bites: AI Power-Ups for Google Workspace](https://www.skills.google/course_templates/1423)|Course|✅|10/1|
+|12|2026-04-12|[AI Boost Bites: Tame Your Inbox with AI](https://www.skills.google/course_templates/1416)|Course|✅|11/1|
+|13|2026-04-12|[AI Boost Bites: Gemini Image-to-Sheets Hack](https://www.skills.google/course_templates/1353)|Course|✅|12/1|
+|14|2026-04-12|[AI Boost Bites: Intro to NotebookLM](https://www.skills.google/course_templates/1418)|Course|✅|13/1|
+|15|2026-04-12|[AI Boost Bites: Prompting like a Pro with Google Workspace](https://www.skills.google/course_templates/1365)|Course|✅|14/1|
+|16|2026-04-12|[AI Boost Bites: Your AI Chart Detective](https://www.skills.google/course_templates/1602)|Course|✅|15/1|
+|17|2026-04-12|[AI Boost Bites: Your Personal AI Tutor](https://www.skills.google/course_templates/1482)|Course|✅|16/1|
+|18|2026-04-12|[AI Boost Bites: Shareable Gems](https://www.skills.google/course_templates/1605)|Course|✅|17/1|
+|19|2026-04-12|[AI Boost Bites: Project Notebooks](https://www.skills.google/course_templates/1417)|Course|✅|18/1|
+|20|2026-04-12|[AI Boost Bites: NotebookLM Reports](https://www.skills.google/course_templates/1466)|Course|✅|19/1|
