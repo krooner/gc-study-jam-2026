@@ -33,4 +33,5 @@
 |18|2026-04-12|[AI Boost Bites: Shareable Gems](https://www.skills.google/course_templates/1605)|Course|✅|17/1|
 |19|2026-04-12|[AI Boost Bites: Project Notebooks](https://www.skills.google/course_templates/1417)|Course|✅|18/1|
 |20|2026-04-12|[AI Boost Bites: NotebookLM Reports](https://www.skills.google/course_templates/1466)|Course|✅|19/1|
-|21||[Analyze Images with the Cloud Vision API](https://www.skills.google/course_templates/633)|Skill|||
+|21|2026-04-14|[Analyze Images with the Cloud Vision API](https://www.skills.google/course_templates/633)|Skill|👍|19/2|
+|22|2026-04-14|[Get Started with Google Workspace Tools](https://www.skills.google/course_templates/676)|Skill|👍|19/3|
