@@ -4,7 +4,7 @@
 4/1 (수) ~ 6/1 (월)
 
 ## Goal
-1. 10개 이상 Badge & 6개 이상 Skill Badge
+1. ~~10개 이상 Badge & 6개 이상 Skill Badge~~ ✅
 2. 18개 이상 Badge & 9개 이상 Skill Badge
 3. 32개 이상 Badge & 16개 이상 Skill Badge
 
@@ -35,3 +35,6 @@
 |20|2026-04-12|[AI Boost Bites: NotebookLM Reports](https://www.skills.google/course_templates/1466)|Course|✅|19/1|
 |21|2026-04-14|[Analyze Images with the Cloud Vision API](https://www.skills.google/course_templates/633)|Skill|👍|19/2|
 |22|2026-04-14|[Get Started with Google Workspace Tools](https://www.skills.google/course_templates/676)|Skill|👍|19/3|
+|23|2026-04-15|[Use APIs to Work with Cloud Storage](https://www.skills.google/course_templates/755)|Skill|👍|19/4|
+|24|2026-04-15|[Using the Google Cloud Speech API](https://www.skills.google/course_templates/756)|Skill|👍|19/5|
+|25|2026-04-15|[Analyze Speech and Language with Google APIs](https://www.skills.google/course_templates/634)|Skill|👍|19/6|
