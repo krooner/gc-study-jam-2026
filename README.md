@@ -38,3 +38,4 @@
 |23|2026-04-15|[Use APIs to Work with Cloud Storage](https://www.skills.google/course_templates/755)|Skill|👍|19/4|
 |24|2026-04-15|[Using the Google Cloud Speech API](https://www.skills.google/course_templates/756)|Skill|👍|19/5|
 |25|2026-04-15|[Analyze Speech and Language with Google APIs](https://www.skills.google/course_templates/634)|Skill|👍|19/6|
+|26|2026-04-20|[Prompt Design in Vertex AI](https://www.skills.google/paths/118/course_templates/976)|Skill|👍|19/7|
