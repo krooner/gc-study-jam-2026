@@ -41,3 +41,5 @@
 |26|2026-04-20|[Prompt Design in Vertex AI](https://www.skills.google/paths/118/course_templates/976)|Skill|👍|19/7|
 |27|2026-04-26|[Create ML Models with BigQuery ML](https://www.skills.google/paths/1281/course_templates/626)|Skill|👍|19/8|
 |28|2026-04-28|[Engineer AI Agents with Agent Development Kit (ADK)](https://www.skills.google/course_templates/1596)|Skill|👍|19/9|
+|29|2026-04-28|[Monitor and Manage Google Cloud Resources](https://www.skills.google/course_templates/653)|Skill|👍|19/10|
+|30|2026-04-28|[Create Your First Gemini Enterprise Application](https://www.skills.google/course_templates/1586)|Skill|👍|19/11|
