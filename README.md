@@ -5,7 +5,7 @@
 
 ## Goal
 1. ~~10개 이상 Badge & 6개 이상 Skill Badge~~ ✅
-2. 18개 이상 Badge & 9개 이상 Skill Badge
+2. ~~18개 이상 Badge & 9개 이상 Skill Badge~~ ✅
 3. 32개 이상 Badge & 16개 이상 Skill Badge
 
 ## Progress
@@ -40,3 +40,4 @@
 |25|2026-04-15|[Analyze Speech and Language with Google APIs](https://www.skills.google/course_templates/634)|Skill|👍|19/6|
 |26|2026-04-20|[Prompt Design in Vertex AI](https://www.skills.google/paths/118/course_templates/976)|Skill|👍|19/7|
 |27|2026-04-26|[Create ML Models with BigQuery ML](https://www.skills.google/paths/1281/course_templates/626)|Skill|👍|19/8|
+|28|2026-04-28|[Engineer AI Agents with Agent Development Kit (ADK)](https://www.skills.google/course_templates/1596)|Skill|👍|19/9|
