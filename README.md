@@ -45,3 +45,4 @@
 |30|2026-04-28|[Create Your First Gemini Enterprise Application](https://www.skills.google/course_templates/1586)|Skill|👍|19/11|
 |31|2026-04-29|[Create a Secure Data Lake on Cloud Storage](https://www.skills.google/course_templates/704)|Skill|👍|19/12|
 |32|2026-04-30|[Implement Multimodal Vector Search with BigQuery](https://www.skills.google/course_templates/1232)|Skill|👍|19/13|
+|33|2026-04-30|[Kickstarting Application Development with Gemini Code Assist](https://www.skills.google/course_templates/1399)|Skill|👍|19/14|
