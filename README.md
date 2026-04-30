@@ -44,3 +44,4 @@
 |29|2026-04-28|[Monitor and Manage Google Cloud Resources](https://www.skills.google/course_templates/653)|Skill|👍|19/10|
 |30|2026-04-28|[Create Your First Gemini Enterprise Application](https://www.skills.google/course_templates/1586)|Skill|👍|19/11|
 |31|2026-04-29|[Create a Secure Data Lake on Cloud Storage](https://www.skills.google/course_templates/704)|Skill|👍|19/12|
+|32|2026-04-30|[Implement Multimodal Vector Search with BigQuery](https://www.skills.google/course_templates/1232)|Skill|👍|19/13|
