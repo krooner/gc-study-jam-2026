@@ -6,7 +6,8 @@
 ## Goal
 1. ~~10개 이상 Badge & 6개 이상 Skill Badge~~ ✅
 2. ~~18개 이상 Badge & 9개 이상 Skill Badge~~ ✅
-3. 32개 이상 Badge & 16개 이상 Skill Badge
+3. ~~32개 이상 Badge & 16개 이상 Skill Badge~~ ✅
+4. Skill Badge Top 30 🔃
 
 ## Progress
 완료 시점 기준
@@ -47,3 +48,4 @@
 |32|2026-04-30|[Implement Multimodal Vector Search with BigQuery](https://www.skills.google/course_templates/1232)|Skill|👍|19/13|
 |33|2026-04-30|[Kickstarting Application Development with Gemini Code Assist](https://www.skills.google/course_templates/1399)|Skill|👍|19/14|
 |34|2026-05-01|[Perform Predictive Data Analysis in BigQuery](https://www.skills.google/course_templates/656)|Skill|👍|19/15|
+|35|2026-05-01|[The Basics of Google Cloud Compute](https://www.skills.google/course_templates/754)|Skill|👍|19/16|
