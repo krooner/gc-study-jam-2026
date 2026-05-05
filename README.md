@@ -49,3 +49,4 @@
 |33|2026-04-30|[Kickstarting Application Development with Gemini Code Assist](https://www.skills.google/course_templates/1399)|Skill|👍|19/14|
 |34|2026-05-01|[Perform Predictive Data Analysis in BigQuery](https://www.skills.google/course_templates/656)|Skill|👍|19/15|
 |35|2026-05-01|[The Basics of Google Cloud Compute](https://www.skills.google/course_templates/754)|Skill|👍|19/16|
+|36|2026-05-05|[Build a Smart Cloud Application with Vibe Coding and MCP](https://www.skills.google/course_templates/1459)|Skill|👍|19/17|
