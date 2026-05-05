@@ -52,3 +52,4 @@
 |36|2026-05-05|[Build a Smart Cloud Application with Vibe Coding and MCP](https://www.skills.google/course_templates/1459)|Skill|👍|19/17|
 |37|2026-05-05|[Derive Insights from BigQuery Data](https://www.skills.google/course_templates/623)|Skill|👍|19/18|
 |38|2026-05-05|[Build Real World AI Applications with Gemini and Imagen](https://www.skills.google/course_templates/1076)|Skill|👍|19/19|
+|39|2026-04-13|[AI Boost Bites: Your Personal AI Study Partner](https://www.skills.google/course_templates/1603)|Course|✅|20/19|
