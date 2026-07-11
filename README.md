@@ -7,7 +7,7 @@
 1. ~~10개 이상 Badge & 6개 이상 Skill Badge~~ ✅
 2. ~~18개 이상 Badge & 9개 이상 Skill Badge~~ ✅
 3. ~~32개 이상 Badge & 16개 이상 Skill Badge~~ ✅
-4. Skill Badge Top 30 🔃
+4. Skill Badge Top 30 ❌
 
 ## Progress
 완료 시점 기준
