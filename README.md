@@ -1,4 +1,4 @@
-# Google Cloud Study Jam 2026
+# Google Cloud Study Jam 2026 1H
 
 ## Schedule
 4/1 (수) ~ 6/1 (월)
