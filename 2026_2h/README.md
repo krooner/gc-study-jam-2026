@@ -34,7 +34,7 @@
 |18|2026-09-07|[AI Boost Bites: Intro to Gemini Enterprise](https://www.skills.google/course_templates/1862)|Course|✅|18/0|
 |19|2026-09-07|[AI Boost Bites: Create Better Campaign Briefs](https://www.skills.google/course_templates/1854)|Course|✅|19/0|
 |20|2026-09-07|[AI Boost Bites: Personalization with customized prompts](https://www.skills.google/course_templates/1366)|Course|✅|20/0|
-|||||||
+|21|2026-09-12|[Share Data Using Google Data Cloud](https://www.skills.google/course_templates/657)|Skill|✅|20/1|
 |||||||
 |||||||
 |||||||
