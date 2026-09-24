@@ -42,6 +42,7 @@
 |26|2026-09-24|[Implement Sensitive Data Protection on Google Cloud](https://www.skills.google/course_templates/750)|Skill|✅|20/6|
 |27|2026-09-24|[Orchestrate Multi-agent Workflows with Gemini Enterprise](https://www.skills.google/course_templates/1682)|Skill|✅|20/7|
 |28|2026-09-25|[Analyze Sentiment with Natural Language API](https://www.skills.google/course_templates/667)|Skill|✅|20/8|
+|29|2026-09-25|[Set Up an App Dev Environment on Google Cloud](https://www.skills.google/course_templates/637)|Skill|✅|20/9|
 |||||||
 |||||||
 |||||||
