@@ -4,7 +4,7 @@
 8/17 (월) ~ 9/30 (수)
 
 ## Goal
-1. 10개 이상 Badge & 6개 이상 Skill Badge
+1. ~~10개 이상 Badge & 6개 이상 Skill Badge~~
 2. 18개 이상 Badge & 10개 이상 Skill Badge
 3. 36개 이상 Badge & 16개 이상 Skill Badge
 4. Skill Badge Top 30
@@ -39,6 +39,7 @@
 |23|2026-09-13|[Organize and Govern Data with Knowledge Catalog](https://www.skills.google/course_templates/726)|Skill|✅|20/3|
 |24|2026-09-24|[Monitor Environments with Google Cloud Managed Service for Prometheus](https://www.skills.google/course_templates/761)|Skill|✅|20/4|
 |25|2026-09-24|[Develop with Apps Script and AppSheet](https://www.skills.google/course_templates/715)|Skill|✅|20/5|
+|26|2026-09-24|[Implement Sensitive Data Protection on Google Cloud](https://www.skills.google/course_templates/750)|Skill|✅|20/6|
 |||||||
 |||||||
 |||||||
