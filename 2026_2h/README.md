@@ -38,6 +38,7 @@
 |22|2026-09-13|[Migrate MySQL Data to Cloud SQL Using Database Migration Service](https://www.skills.google/course_templates/629)|Skill|✅|20/2|
 |23|2026-09-13|[Organize and Govern Data with Knowledge Catalog](https://www.skills.google/course_templates/726)|Skill|✅|20/3|
 |24|2026-09-24|[Monitor Environments with Google Cloud Managed Service for Prometheus](https://www.skills.google/course_templates/761)|Skill|✅|20/4|
+|25|2026-09-24|[Develop with Apps Script and AppSheet](https://www.skills.google/course_templates/715)|Skill|✅|20/5|
 |||||||
 |||||||
 |||||||
