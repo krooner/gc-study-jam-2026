@@ -41,6 +41,7 @@
 |25|2026-09-24|[Develop with Apps Script and AppSheet](https://www.skills.google/course_templates/715)|Skill|✅|20/5|
 |26|2026-09-24|[Implement Sensitive Data Protection on Google Cloud](https://www.skills.google/course_templates/750)|Skill|✅|20/6|
 |27|2026-09-24|[Orchestrate Multi-agent Workflows with Gemini Enterprise](https://www.skills.google/course_templates/1682)|Skill|✅|20/7|
+|28|2026-09-25|[Analyze Sentiment with Natural Language API](https://www.skills.google/course_templates/667)|Skill|✅|20/8|
 |||||||
 |||||||
 |||||||
