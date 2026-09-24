@@ -44,6 +44,7 @@
 |28|2026-09-25|[Analyze Sentiment with Natural Language API](https://www.skills.google/course_templates/667)|Skill|✅|20/8|
 |29|2026-09-25|[Set Up an App Dev Environment on Google Cloud](https://www.skills.google/course_templates/637)|Skill|✅|20/9|
 |30|2026-09-25|[Set Up a Google Cloud Network](https://www.skills.google/course_templates/641)|Skill|✅|20/10|
+|31|2026-09-25|[Implement Event-Driven Messaging and Automation Workflows](https://www.skills.google/course_templates/728)|Skill|✅|20/11|
 |||||||
 |||||||
 |||||||
