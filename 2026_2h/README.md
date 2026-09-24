@@ -36,7 +36,8 @@
 |20|2026-09-07|[AI Boost Bites: Personalization with customized prompts](https://www.skills.google/course_templates/1366)|Course|✅|20/0|
 |21|2026-09-12|[Share Data Using Google Data Cloud](https://www.skills.google/course_templates/657)|Skill|✅|20/1|
 |22|2026-09-13|[Migrate MySQL Data to Cloud SQL Using Database Migration Service](https://www.skills.google/course_templates/629)|Skill|✅|20/2|
-|23|2026-09-13|[Organize and Govern Data with Knowledge Catalog](https://www.skills.google/course_templates/726)|✅|Skill|20/3|
+|23|2026-09-13|[Organize and Govern Data with Knowledge Catalog](https://www.skills.google/course_templates/726)|Skill|✅|20/3|
+|24|2026-09-24|[Monitor Environments with Google Cloud Managed Service for Prometheus](https://www.skills.google/course_templates/761)|Skill|✅|20/4|
 |||||||
 |||||||
 |||||||
