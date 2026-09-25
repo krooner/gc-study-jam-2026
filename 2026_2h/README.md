@@ -48,6 +48,7 @@
 |32|2026-09-25|[Implement Load Balancing on Compute Engine](https://www.skills.google/course_templates/648)|Skill|✅|20/12|
 |33|2026-09-25|[Prepare Data for Looker Dashboards and Reports](https://www.skills.google/course_templates/628)|Skill|✅|20/13|
 |34|2026-09-25|[Create and Manage Cloud Spanner Instances](https://www.skills.google/course_templates/643)|Skill|✅|20/14|
+|35|2026-09-25|[Build Event-Driven Applications with Eventarc](https://www.skills.google/course_templates/727)|Skill|✅|20/15|
 |||||||
 |||||||
 |||||||
