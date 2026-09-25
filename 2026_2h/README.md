@@ -46,6 +46,7 @@
 |30|2026-09-25|[Set Up a Google Cloud Network](https://www.skills.google/course_templates/641)|Skill|✅|20/10|
 |31|2026-09-25|[Implement Event-Driven Messaging and Automation Workflows](https://www.skills.google/course_templates/728)|Skill|✅|20/11|
 |32|2026-09-25|[Implement Load Balancing on Compute Engine](https://www.skills.google/course_templates/648)|Skill|✅|20/12|
+|33|2026-09-25|[Prepare Data for Looker Dashboards and Reports](https://www.skills.google/course_templates/628)|Skill|✅|20/13|
 |||||||
 |||||||
 |||||||
