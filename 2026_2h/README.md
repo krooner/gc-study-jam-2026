@@ -6,7 +6,7 @@
 ## Goal
 1. ~~10개 이상 Badge & 6개 이상 Skill Badge~~
 2. ~~18개 이상 Badge & 10개 이상 Skill Badge~~
-3. 36개 이상 Badge & 16개 이상 Skill Badge
+3. ~~36개 이상 Badge & 16개 이상 Skill Badge~~
 4. Skill Badge Top 30
 
 ## Progress
@@ -49,6 +49,7 @@
 |33|2026-09-25|[Prepare Data for Looker Dashboards and Reports](https://www.skills.google/course_templates/628)|Skill|✅|20/13|
 |34|2026-09-25|[Create and Manage Cloud Spanner Instances](https://www.skills.google/course_templates/643)|Skill|✅|20/14|
 |35|2026-09-25|[Build Event-Driven Applications with Eventarc](https://www.skills.google/course_templates/727)|Skill|✅|20/15|
+|36|2026-09-25|[Build Serverless Applications with Cloud Run Functions](https://www.skills.google/course_templates/696)|Skill|✅|20/16|
 |||||||
 |||||||
 |||||||
